@@ -1,0 +1,129 @@
+.zagolovok {
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+.photo-nachlo {
+    border: 1px solid #11191C;
+    height: 18vh;
+    width: 54vh;
+
+}
+
+.kartinka-nachlo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+
+}
+
+.main {
+
+
+    height: auto;
+    width: 55vh;
+
+    position: absolute;
+
+    overflow: auto;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    background-image: url(black-concrete-textured-background.jpg);
+    border: #151b1a ridge;
+}
+
+body {
+
+    background-color: #141313;
+}
+
+p {
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#iconka-sword {
+    width: 10px;
+    height: auto;
+}
+
+.vod-nik {
+    background-color: #313131;
+    color: white;
+
+}
+
+.vod-nik:disabled {
+    border: rgb(77, 0, 10) solid 2px;
+
+}
+
+.btn {
+    color: white;
+    text-align: center;
+    background-image: url(https://img.freepik.com/free-photo/leather-texture-for-background_1385-1136.jpg);
+}
+
+.btn:hover{
+   opacity: 0.5;
+   cursor: pointer;
+}
+
+.poloska-kar {
+    height: 5px;
+    background-color: #313131;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.game-polo {
+    width: 100%;
+    background-color: #313131;
+    vertical-align: middle;
+}
+
+.reg {
+    color: rgb(175, 177, 80);
+}
+
+.text1{
+margin-top: -1vh;
+
+}
+
+.footer{
+   position: absolute;
+   bottom:0;
+   left: 0;
+   right: 0;
+   overflow: auto;
+   margin: auto;
+
+   width: 55vh;
+   height: 10vh;
+   background: #141313;
+   text-align: center;
+   color: rgb(255, 255, 255);
+   vertical-align: middle;
+}
+
+.nowInGame{
+   margin-bottom: 0;
+}
+#newlastText{
+   width: 50%;
+  height: 50%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+
+}

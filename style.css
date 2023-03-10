@@ -109,7 +109,7 @@ p {
 
     width: 55vh;
     height: 10vh;
-    background: #141313;
+
     text-align: center;
     color: rgb(255, 255, 255);
     vertical-align: middle;
@@ -139,7 +139,7 @@ p {
 
 .text000 {
     color: #a5a5a5;
-    padding-top: 68vh;
+    padding-top: 200vh;
     text-align: center;
 
 
@@ -155,4 +155,66 @@ p {
 
 .soglashenie {
     color: #a5a5a5;
+}
+
+.vod-nik1 {
+    background-color: #313131;
+    color: white;
+}
+
+.vod-nik1:disabled {
+    border: rgb(77, 0, 10) solid 2px;
+
+}
+
+.btn1 {
+    color: white;
+    text-align: center;
+    background-image: url(https://img.freepik.com/free-photo/leather-texture-for-background_1385-1136.jpg);
+}
+
+.btn1:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.bonus-reg1 {
+    color: #a5af21;
+    font-size: smaller;
+}
+
+.text-reg0 {
+    color: #a5af21;
+}
+
+.t1 {
+    color: red;
+}
+
+.t2 {
+    color: red;
+}
+
+.t3 {
+    color: red;
+}
+
+.t4 {
+    color: red;
+}
+
+.t5 {
+    color: red;
+}
+
+.t6 {
+    color: red;
+}
+
+.t7 {
+    color: red;
+}
+
+.t8 {
+    color: red;
 }
